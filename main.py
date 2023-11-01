@@ -69,4 +69,4 @@ def main():
         st.success("You can sell your car at {:.2f} lakhs".format(pred[0]))
 
 if __name__ == '__main__':
-    main()~
+    main()
